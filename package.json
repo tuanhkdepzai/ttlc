@@ -1,0 +1,16 @@
+{
+  "name": "bot-thuat-toan-tele68",
+  "version": "1.0.0",
+  "description": "Bot du doan xuc xac gop tu 2 thuat toan",
+  "main": "ttlc.js",
+  "scripts": {
+    "start": "node ttlc.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "author": "Admin",
+  "license": "ISC"
+}
